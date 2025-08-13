@@ -1,3 +1,6 @@
+**The main repository has moved to: https://gitlab.tugraz.at/ibi/mrirecon/tutorials/raga-tutorial**
+
+
 # Tutorial: Rational Approximation of Golden Angle Sampling in BART
 
 > #### Rational Approximation of Golden Angles: Accelerated Reconstructions for Radial MRI
